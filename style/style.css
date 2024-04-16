@@ -75,3 +75,11 @@ main {
     font-size: .9rem;
     letter-spacing: .09rem;
 }
+
+.card {
+    margin-bottom: 2rem;
+}
+
+input {
+    color: #3a3a3a;
+}

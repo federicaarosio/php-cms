@@ -52,16 +52,28 @@
 
             </div>
             <div class="column-container">
-                <h2>
-                    colonna destra
-                </h2>
-                <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga ullam veniam repellendus dolor dolore. Laboriosam assumenda iusto odio fugiat saepe excepturi non, vero nemo veritatis, dolore ratione esse voluptate dolor?
-                    Cum, aliquid. Error natus quisquam autem nobis corporis nostrum incidunt at vitae nemo, eligendi, ducimus non. Praesentium doloribus, veniam vel, corporis perferendis quibusdam ratione in, odit placeat nostrum ad error.
-                    Error repellendus inventore, ad voluptatem nobis blanditiis ducimus accusantium repellat a ipsum reprehenderit atque quasi dolore modi deleniti exercitationem est corrupti minima necessitatibus illo. Expedita consectetur provident eveniet ipsum ipsam?
-                    Odit, vitae suscipit! Alias quo nisi deserunt odio ipsam quaerat, ad voluptas sed exercitationem magnam dicta laudantium culpa ab itaque explicabo a magni soluta officiis, dolores assumenda, consectetur sequi velit.
-                    Ex optio nulla consectetur autem minus tenetur sequi et fugiat dolor corporis? Debitis, itaque. Repudiandae ipsum, ab necessitatibus obcaecati ex fugit officiis id iusto voluptatum laboriosam quam sint corporis ad.
-                </p>
+                <div class="card">
+                    <h4>
+                        titoletto
+                    </h4>
+                    <input type="search">
+                </div>
+                <div class="card">
+                    <h4>
+                        titoletto
+                    </h4>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae quibusdam porro accusantium, culpa id commodi vero consequuntur, ipsa rerum maiores vel dignissimos deleniti cupiditate, ad eligendi dicta laudantium numquam in!
+                    </p>
+                </div>
+                <div class="card">
+                    <h4>
+                        titoletto
+                    </h4>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae quibusdam porro accusantium, culpa id commodi vero consequuntur, ipsa rerum maiores vel dignissimos deleniti cupiditate, ad eligendi dicta laudantium numquam in!
+                    </p>
+                </div>
             </div>
 
         </div>
